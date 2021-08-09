@@ -1,4 +1,4 @@
-**# add code in android at androidmanifest.xml
+# add code in android at androidmanifest.xml
 <activity
 	android:name="com.yalantis.ucrop.UCropActivity"
 	android:screenOrientation="portrait"
